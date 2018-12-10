@@ -2,7 +2,6 @@
 
 [Please provide your bug reports](https://github.com/idein/actcast-support/issues).
 
-Use following e-mail address for issues you can not publically.
+Use the following e-mail address to issue your problems if you cannot make them public.
 
 - contact@actcast.io
-
