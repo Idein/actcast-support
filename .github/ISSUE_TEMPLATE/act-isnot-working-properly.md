@@ -1,6 +1,6 @@
 ---
-name: The behaviour of Act is not as expected
-about: Report the environment and get support
+name: Act isn't working properly
+about: The behaviour of the Act is not as expected
 
 ---
 

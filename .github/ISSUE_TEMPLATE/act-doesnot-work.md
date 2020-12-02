@@ -1,6 +1,6 @@
 ---
-name: Act doesn't work, can't be installed, or doesn't finish the installation
-about: Report the environment and get support
+name: Act doesn't work
+about: Act doesn't work, can't be installed, or doesn't finish the installation
 
 ---
 
