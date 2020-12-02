@@ -1,0 +1,25 @@
+---
+name: Act doesn't work, can't be installed, or doesn't finish the installation
+about: Report the environment and get support
+
+---
+
+[ ] I checked the contents of the [actcast.io - FAQ](https://actcast.io/docs/FAQ/RaspberryPi/).
+
+# Issue description
+
+## Environment
+Please provide the following information.
+
+- Whether the network you connecting to is wired or wireless
+- Device Details page URL of the registered device
+    - e.g. https://actcast.io/groups/67/devices/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
+- USB camera or RraspberryPi camera module if the camera is connected
+- Whether the HDMI display is connected or not
+- What you are taking power from
+    - Adapter performance(e.g. 5V/3A)
+    - The status of the outlet where the adapter is plugged in
+- Whether other peripheral hardware is connected or not
+    - Which port the USB device in plugged into
+- The time when the phenomenon occurred or began to occur
+- Act and (if possible) Act settings

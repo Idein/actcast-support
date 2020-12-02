@@ -1,0 +1,23 @@
+---
+name: The behaviour of Act is not as expected
+about: Report the environment and get support
+
+---
+
+[ ] I checked the contents of the [actcast.io - FAQ](https://actcast.io/docs/FAQ/RaspberryPi/).
+
+# Issue description
+
+## Environment
+Please provide the following information.
+
+- The name of the app (or app id) from which Act originated
+- Device Details page URL of the registered device
+    - e.g. https://actcast.io/groups/67/devices/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
+- USB camera or RraspberryPi camera module if the camera is connected
+    - If you are using a USB camera, the name of the model
+- Whether the HDMI display is connected or not
+- Whether other peripheral hardware is connected or not
+- The time when the phenomenon occurred or began to occur
+- Act setting (if possible)
+
