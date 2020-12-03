@@ -1,10 +1,8 @@
 ---
-name: Bug report
+name: Other bug report
 about: Create a report to help us improve
 
 ---
-
-[ ] I checked the contents of the [actcast.io - FAQ](https://actcast.io/docs/FAQ/).
 
 # Issue description
 

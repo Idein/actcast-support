@@ -1,10 +1,8 @@
 ---
 name: The device cannot be registered
-about: Report the environment and get support
+about: The device is not registered correctly
 
 ---
-
-[ ] I checked the contents of the [actcast.io - FAQ](https://actcast.io/docs/FAQ/RaspberryPi/).
 
 # Issue description
 

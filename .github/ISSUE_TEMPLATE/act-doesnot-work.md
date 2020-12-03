@@ -4,8 +4,6 @@ about: Act doesn't work, can't be installed, or doesn't finish the installation
 
 ---
 
-[ ] I checked the contents of the [actcast.io - FAQ](https://actcast.io/docs/FAQ/RaspberryPi/).
-
 # Issue description
 
 ## Environment
@@ -20,6 +18,6 @@ Please provide the following information.
     - Adapter performance(e.g. 5V/3A)
     - The status of the outlet where the adapter is plugged in
 - Whether other peripheral hardware is connected or not
-    - Which port the USB device in plugged into
+    - Which port the USB device is plugged into
 - The time when the phenomenon occurred or began to occur
 - Act and (if possible) Act settings

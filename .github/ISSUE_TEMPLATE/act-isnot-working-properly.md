@@ -4,8 +4,6 @@ about: The behaviour of the Act is not as expected
 
 ---
 
-[ ] I checked the contents of the [actcast.io - FAQ](https://actcast.io/docs/FAQ/RaspberryPi/).
-
 # Issue description
 
 ## Environment
