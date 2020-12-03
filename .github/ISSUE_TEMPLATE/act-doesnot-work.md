@@ -19,5 +19,5 @@ Please provide the following information.
     - The status of the outlet where the adapter is plugged in
 - Whether other peripheral hardware is connected or not
     - Which port the USB device is plugged into
-- The time when the phenomenon occurred or began to occur
+- Time the problem occured (e.g. 2020-12-02 15:30 +9:00)
 - Act and (if possible) Act settings
