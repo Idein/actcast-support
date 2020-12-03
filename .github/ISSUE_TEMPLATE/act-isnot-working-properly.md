@@ -16,6 +16,5 @@ Please provide the following information.
     - If you are using a USB camera, the name of the model
 - Whether the HDMI display is connected or not
 - Whether other peripheral hardware is connected or not
-- The time when the phenomenon occurred or began to occur
+- Time the problem occured (e.g. 2020-12-02 15:30 +9:00)
 - Act setting (if possible)
-
