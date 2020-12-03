@@ -15,7 +15,7 @@ Please provide the following information.
 - USB camera or RraspberryPi camera module if the camera is connected
 - Whether the HDMI display is connected or not
 - What you are taking power from
-    - Adapter performance(e.g. 5V/3A)
+    - Power Supply (e.g. Physical Computing Lab [TSI-PI046-5V3A-02] (5V, 3.0A))
     - The status of the outlet where the adapter is plugged in
 - Whether other peripheral hardware is connected or not
     - Which port the USB device is plugged into
